@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719742401656",
+    "project_id": "hifichatapplication",
+    "storage_bucket": "hifichatapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719742401656:android:91f86a6928bafb0d31c18d",
+        "android_client_info": {
+          "package_name": "com.example.hifichatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkHJzknWhVnPaXo2B9t75LsaqHG2sp7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
